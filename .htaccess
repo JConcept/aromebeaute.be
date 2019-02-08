@@ -1,0 +1,28 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# BEGIN Security
+<IfModule mod_headers.c>
+Header edit Set-Cookie ^(.*)$ $1;HttpOnly;Secure
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-XSS-Protection "1; mode=block" 
+</IfModule>
+Options All -Indexes
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+# END Security
