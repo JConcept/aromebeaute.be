@@ -94,13 +94,13 @@ if( !function_exists('my_theme_register_required_plugins') ) {
 					'required' 				=> false,
 				),
 		
-				array(
-					'name'     				=> esc_html__('Revolution Slider Plugin','spalab'),
-					'slug'     				=> 'revslider',
-					'source'   				=> get_template_directory() . '/framework/plugins/revslider.zip',
-					'version'				=> '5.4.8',
-					'required' 				=> false,
-				),
+				// array(
+				// 	'name'     				=> esc_html__('Revolution Slider Plugin','spalab'),
+				// 	'slug'     				=> 'revslider',
+				// 	'source'   				=> get_template_directory() . '/framework/plugins/revslider.zip',
+				// 	'version'				=> '5.4.8',
+				// 	'required' 				=> false,
+				// ),
 		
 				array(
 					'name'     				=> esc_html__('Responsive Styled Google Maps Generator','spalab'),

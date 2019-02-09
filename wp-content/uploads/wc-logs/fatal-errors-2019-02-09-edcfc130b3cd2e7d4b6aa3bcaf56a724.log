@@ -1,0 +1,20 @@
+2019-02-09T18:15:17+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\theme_metaboxes\page_metabox.php on line 103
+
+2019-02-09T18:15:23+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\theme_metaboxes\page_metabox.php on line 103
+
+2019-02-09T18:15:32+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\theme_metaboxes\page_metabox.php on line 103
+
+2019-02-09T18:15:33+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\theme_metaboxes\page_metabox.php on line 103
+
+2019-02-09T18:16:04+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\theme_metaboxes\page_metabox.php on line 103
+
+2019-02-09T18:16:16+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\theme_metaboxes\page_metabox.php on line 103
+
+2019-02-09T18:17:54+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\aromebeaute.test/wp-content/themes/aromebeaute/framework/theme_metaboxes/post_metabox.php' (include_path='.;C:\php\pear') in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\include.php on line 12
+
+2019-02-09T18:17:57+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\aromebeaute.test/wp-content/themes/aromebeaute/framework/theme_metaboxes/post_metabox.php' (include_path='.;C:\php\pear') in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\include.php on line 12
+
+2019-02-09T18:18:01+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\aromebeaute.test/wp-content/themes/aromebeaute/framework/theme_metaboxes/post_metabox.php' (include_path='.;C:\php\pear') in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\include.php on line 12
+
+2019-02-09T18:18:29+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\aromebeaute.test/wp-content/themes/aromebeaute/framework/theme_metaboxes/post_metabox.php' (include_path='.;C:\php\pear') in C:\wamp64\www\aromebeaute.test\wp-content\themes\aromebeaute\framework\include.php on line 12
+
